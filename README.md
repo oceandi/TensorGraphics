@@ -1,6 +1,6 @@
 ## About Rate
 
-Rate (Random Access Tensor Engine) is a free and open game engine
+RATE (Random Access Tensor Engine) is a free and open game engine
 developed by TensorGraphics.
 
 You are free to use Rate for any purpose, including commercial games
