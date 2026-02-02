@@ -1,4 +1,4 @@
-# Rate Engine
+# RATE
 
 RATE (Random Access Tensor Engine) is the core game engine developed by TensorGraphics.
 
