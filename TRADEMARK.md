@@ -1,6 +1,6 @@
 ## Trademark Policy
 
-"Rate", "Random Access Tensor Engine", and "TensorGraphics"
+"RATE", "Random Access Tensor Engine", and "TensorGraphics"
 are trademarks of TensorGraphics.
 
 You may state that your project or product uses Rate.
